@@ -1,15 +1,13 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ryan Berry</h1>
+<h1 align="center">Hi, I'm Ryan Berry</h1>
 <h3 align="center">A passionate full-stack Developer from Arizona</h3>
 
-- 🌱 I’m currently learning **Front-end & Back-end development**
+- I’m a full stack developer about to graduate from Bloomtech.
 
-- 👨‍💻 All of my projects are available at [https://github.com/rberry16](https://github.com/rberry16)
+- Ask me about **React, Redux, JavaScript, Express, Node.js, Cypress**
 
-- 💬 Ask me about **React, Redux, JavaScript, Express, Node.js, Cypress**
+- I'm currently working on: Some independent projects to fill out my resume / portfolio.
 
-- 📫 How to reach me **ryanberry677@gmail.com**
+- If you have any questions please reach out to me at **ryanberry677@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
