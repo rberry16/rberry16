@@ -7,6 +7,8 @@
 
 - I'm currently working on: Some independent projects to fill out my resume / portfolio.
 
+- Hobbies: Guitar, Piano, Creative Writing, and Video Games.
+
 - If you have any questions please reach out to me at **ryanberry677@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
