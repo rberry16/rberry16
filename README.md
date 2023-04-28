@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ryan Berry</h1>
 <h3 align="center">A passionate full-stack Developer from Arizona</h3>
 
-- I’m a full stack developer about to graduate from Bloomtech.
+- I’m a full stack developer currently developing independent projetcs.
 
 - Ask me about **React, Redux, JavaScript, Express, Node.js, Cypress**
 
